@@ -14,8 +14,9 @@
     <td> <a href="https://www.instagram.com/weslleypmf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; </td>
   </tbody>
 </div>
+<br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weslleypmfortunato)](https://github.com/weslleypmfortunato/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weslleypmfortunato&theme=react-dark)](https://github.com/weslleypmfortunato/github-readme-activity-graph)
 
 <br />
 
