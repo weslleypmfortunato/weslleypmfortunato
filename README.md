@@ -3,8 +3,6 @@
 </div>
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=36&duration=3000&pause=1000&color=7FB42C&center=true&width=800&height=75&lines=Hello+there!+I'm+Weslley+Fortunato.;I+build+things+to+make+life+easier!)](https://git.io/typing-svg)
-
 <div align="center">
   <tbody>
     <td> <a href="https://www.linkedin.com/in/weslleyfortunato/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" /></a>&nbsp;  </td>
