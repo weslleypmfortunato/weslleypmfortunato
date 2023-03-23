@@ -63,7 +63,7 @@
       <img width="505" src="https://user-images.githubusercontent.com/111170704/227106966-544e7ffb-3049-4dd4-bdac-b8e9effe526b.png" />
     </td>
     <td>
-      <img width="500" height="345" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227108731-d0491fc0-2c4d-42a1-b20d-3f0750eb1efa.png">
+      <img width="500" height="345" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227114186-d956facb-3db3-4bdb-bdf5-a6de6e1ba625.png">
       <a href="https://github.com/weslleypmfortunato/food-recipes">
       <img width="505" height="180" src="https://user-images.githubusercontent.com/111170704/227109565-f20a0f2b-cf0c-41ac-a5fe-a8ccd2e20747.png" />
     </td>
