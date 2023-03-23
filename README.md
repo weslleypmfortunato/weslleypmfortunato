@@ -58,12 +58,12 @@
 <table>
   <tr>
     <td>
-      <img width="500" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227105346-85eee950-6930-4584-81ee-1a70f44457f7.png">
+      <img width="500" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227114801-7e1c72e2-daeb-4408-b9d3-58684fb97d0c.png">
       <a href="https://github.com/weslleypmfortunato/finalProject-management-system-frontend">
       <img width="505" src="https://user-images.githubusercontent.com/111170704/227106966-544e7ffb-3049-4dd4-bdac-b8e9effe526b.png" />
     </td>
     <td>
-      <img width="500" height="345" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227114186-d956facb-3db3-4bdb-bdf5-a6de6e1ba625.png">
+      <img width="500" height="345" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227114889-c7e5bfe8-9c9d-4ce6-b0e8-7f740031d6ca.png">
       <a href="https://github.com/weslleypmfortunato/food-recipes">
       <img width="505" height="180" src="https://user-images.githubusercontent.com/111170704/227109565-f20a0f2b-cf0c-41ac-a5fe-a8ccd2e20747.png" />
     </td>
