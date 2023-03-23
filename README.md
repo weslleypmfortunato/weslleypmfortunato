@@ -1,5 +1,9 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Weslley 🧑🏻‍🦱</h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=36&duration=3000&pause=1000&color=44AF2D&center=true&vCenter=true&width=800&lines=Hello+there!+I'm+Weslley+Fortunato;I+build+things+to+make+life+easier!" alt="Typing SVG" /></a>
+</div>
+
+
+<div align="center">
   <tbody>
     <td> <a href="https://www.linkedin.com/in/weslleyfortunato/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" /></a>&nbsp;  </td>
     <td> <a href=mailto:weslley.m.fortunato@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp; </td>
@@ -10,6 +14,8 @@
     <td> <a href="https://www.instagram.com/weslleypmf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; </td>
   </tbody>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weslleypmfortunato)](https://github.com/weslleypmfortunato/github-readme-activity-graph)
 
 <br />
 
