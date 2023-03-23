@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><b>Hi there, I'm Weslley 🧑🏻‍🦱</h1>
+  <h1 align="center">Hi there, I'm Weslley 🧑🏻‍🦱</h1>
   <tbody>
     <td> <a href="https://www.linkedin.com/in/weslleyfortunato/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" /></a>&nbsp;  </td>
     <td> <a href=mailto:weslley.m.fortunato@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp; </td>
@@ -10,7 +10,7 @@
     <td> <a href="https://www.instagram.com/weslleypmf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; </td>
   </tbody>
 </div>
-  
+
 <br />
 
 <table><tr><td valign="top" width="100%">
@@ -25,7 +25,7 @@
 <br />
 
 <table><tr><td valign="top" width="50%">
-  <h2 align="center"> 💼 Languages and Tools</h2>
+  <h2 align="center"> 🛠 Languages and Tools</h2>
 
   <br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />  
@@ -45,26 +45,23 @@
   
 </td><td valign="top" width="50%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleypmfortunato&layout=compact&theme=radical" width="500" />
+  <h2 align="center"> 💻 Currently learning </h2>
+  <br />
+
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   
 </tr></tr></table> 
 
 <br />
 
 <table><tr><td valign="top" width="40%">
-<h2 align="center"> 📕 Latest Blog Posts</h2>
   
-<!-- DEV:START -->
-- [How debugging for accessibility helped me finally understand useRef](https://dev.to/yuridevat/how-debugging-for-accessibility-helped-me-finally-understand-useref-2jmp)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak VI](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-vi-943)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak V](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-v-2afn)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak IV](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iv-123i)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak III](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iii-f79)
-<!-- DEV:END -->
 
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
-
-I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleypmfortunato&layout=compact&theme=radical" width="500" />
 
 </td><td valign="top" width="60%">
 
