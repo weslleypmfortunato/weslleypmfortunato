@@ -44,33 +44,31 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" />
   
 </td><td valign="top" width="50%">
-  
   <h2 align="center"> 💻 Currently learning </h2>
+  
   <br />
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  
 </tr></tr></table> 
 
 <br />
 
 <table><tr><td valign="top" width="40%">
   
-
   <br />
   <br />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleypmfortunato&layout=compact&theme=radical" width="500" />
-
 </td><td valign="top" width="60%">
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 <div align="center">
-<img width="200" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-<a href="https://github.com/YuriDevAT/sos-animals">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+<img width="200" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227105346-85eee950-6930-4584-81ee-1a70f44457f7.png">
+<a href="https://github.com/weslleypmfortunato/finalProject-management-system-frontend">
+<img width="250" src="https://user-images.githubusercontent.com/111170704/227106966-544e7ffb-3049-4dd4-bdac-b8e9effe526b.png" />
 </a>
 <img width="200" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
 <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
@@ -80,36 +78,10 @@
 
 </tr></tr></table> 
 
-<!-- 
-<h2 align="center">About me 😇</h2>
-
-<br />
-<p>🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>.</p>
-<p>🥳 One of the Runner Ups (out of over 30) at Clerk x Hashnode Hackathon July 2021 with my project <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a>.</p>
-<br />
-<p>:muscle: I am currently ... helping others to get into tech too by creating content, blog posts and open source projects.</p>
-<p>:eyes: I’m currently learning ... everything about accessibility from the design process to web development to testing.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... accessibility. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself. </p>
--->
-
-<!--
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
-</p>
-
-<br />
-<p align="center">
-I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
-</p>
-
-<br />
-<h2 align="center"> 📕 Latest Blog Posts</h2>
--->
-<!--
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
-
-<p>I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝.</p>
--->
+<table>
+  <tr>
+    <td><img width="600" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227105346-85eee950-6930-4584-81ee-1a70f44457f7.png">
+      <a href="https://github.com/weslleypmfortunato/finalProject-management-system-frontend">
+<img width="600" src="https://user-images.githubusercontent.com/111170704/227106966-544e7ffb-3049-4dd4-bdac-b8e9effe526b.png" /></td>
+  </tr>
+</table>
