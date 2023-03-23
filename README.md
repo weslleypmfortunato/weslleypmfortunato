@@ -16,7 +16,7 @@
 </div>
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weslleypmfortunato&theme=react-dark)](https://github.com/weslleypmfortunato/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weslleypmfortunato&theme=react-dark&custom_title=Weslley's%20Contribution%20Graph&hide_border=true)](https://github.com/weslleypmfortunato/github-readme-activity-graph)
 
 <br />
 
