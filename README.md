@@ -10,33 +10,19 @@
     <td> <a href="https://www.instagram.com/weslleypmf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; </td>
   </tbody>
 </div>
-
-  
-  
   
 <br />
 
-<table><tr><td valign="top" width="50%">
-  
-<h3 align="center">About me 😇</h3>
+<table><tr><td valign="top" width="100%">
+    <h2 align="center">About me 🧑🏻‍</h2>
+    <p> :raising_hand: I'm an enthusiastic full-stack developer since 2022. </p>
+    <p> :muscle: I'm currently working on personal projects to put into practice my learning and gain a deeper knowledge of tech. </p>
+    <p> :speech_balloon: Ask me about anything related to my projects or coding. I am happy to help. </p>
+    <p> 🏆 Top 1 final bootcamp project </p>
+    <p> :ghost: Fun fact: I studied Engineering and worked as a Quality Analyst/Engineer for over 12 years, but I switched careers in my 30s and started learning coding by myself and decided to apply for a Bootcamp to get more knowledge and improve my skills. </p>
+</td>
 
-- :raising_hand: I am an enthusiastic selftaught frontend developer and accessibility advocate since 2020
-- :muscle: I am currently helping others to get into tech too by creating content, blog posts and open source projects
-- :speech_balloon: Ask me about anything related to accessibility. I am happy to help
-- 🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>
-- :ghost: Fun fact: I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself
 
-
-</td><td valign="top" width="50%">
-
-<h3 align="center">💟 Open Source & Community</h3>
-<br />
-
-- I am a mentor by 💙 helping people switching careers into tech too
-- Check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions on how to get into tech
-- I created an organization called <a href="https://github.com/YurisCodingClub">YurisCodingClub</a> to help others contribute to open source and get familiar with it.
-  
-  <div align="center">Beginners are very welcome 😇</div>
   
 <br />
 <!--
