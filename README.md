@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=36&duration=3000&pause=1000&color=7FB42C&center=true&width=800&height=75&lines=Hello+there!+I'm+Weslley+Fortunato.;I+build+things+to+make+life+easier!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=36&duration=3000&pause=1000&color=7FB42C&center=true&width=800&height=75&lines=Hello+there!+I'm+Weslley+Fortunato.;I+build+things+to+make+life+easier!" alt="Typing SVG" />
 </div>
 <br />
 
@@ -69,6 +69,11 @@
       <img width="500" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227114801-7e1c72e2-daeb-4408-b9d3-58684fb97d0c.png">
       <a href="https://github.com/weslleypmfortunato/finalProject-management-system-frontend">
       <img width="505" src="https://user-images.githubusercontent.com/111170704/227115370-e36edba4-a21d-4c4c-8081-4966d1760b55.png" />
+    </td>
+    <td>
+      <img width="500" alt="Current Weather Forecast" src="https://user-images.githubusercontent.com/111170704/227729028-4c4b6b4f-1f89-40c6-9bf9-08ad8947d96a.png">
+      <a href="https://github.com/weslleypmfortunato/current-weather-app">
+      <img width="505" height="115" src="https://user-images.githubusercontent.com/111170704/227729078-277ea093-626c-440e-8d10-5e015c3cffa8.png" />
     </td>
     <td>
       <img width="500" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227114889-c7e5bfe8-9c9d-4ce6-b0e8-7f740031d6ca.png">
