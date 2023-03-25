@@ -66,7 +66,7 @@
 <table>
   <tr>
     <td>
-      <a href=https://github.com/weslleypmfortunato/finalProject-management-system-frontend"">
+      <a href="https://github.com/weslleypmfortunato/finalProject-management-system-frontend">
         <img width="500" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227114801-7e1c72e2-daeb-4408-b9d3-58684fb97d0c.png">
         <img width="505" src="https://user-images.githubusercontent.com/111170704/227115370-e36edba4-a21d-4c4c-8081-4966d1760b55.png" />
       </a>
