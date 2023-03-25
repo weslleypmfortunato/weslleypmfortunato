@@ -66,9 +66,10 @@
 <table>
   <tr>
     <td>
-      <img width="500" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227114801-7e1c72e2-daeb-4408-b9d3-58684fb97d0c.png">
-      <a href="https://github.com/weslleypmfortunato/finalProject-management-system-frontend">
-      <img width="505" src="https://user-images.githubusercontent.com/111170704/227115370-e36edba4-a21d-4c4c-8081-4966d1760b55.png" />
+      <a href=https://github.com/weslleypmfortunato/finalProject-management-system-frontend"">
+        <img width="500" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227114801-7e1c72e2-daeb-4408-b9d3-58684fb97d0c.png">
+        <img width="505" src="https://user-images.githubusercontent.com/111170704/227115370-e36edba4-a21d-4c4c-8081-4966d1760b55.png" />
+      </a>
     </td>
     <td>
       <img width="500" alt="Current Weather Forecast" src="https://user-images.githubusercontent.com/111170704/227729028-4c4b6b4f-1f89-40c6-9bf9-08ad8947d96a.png">
