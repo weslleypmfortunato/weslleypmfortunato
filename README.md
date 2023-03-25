@@ -72,14 +72,16 @@
       </a>
     </td>
     <td>
-      <img width="500" alt="Current Weather Forecast" src="https://user-images.githubusercontent.com/111170704/227729028-4c4b6b4f-1f89-40c6-9bf9-08ad8947d96a.png">
       <a href="https://github.com/weslleypmfortunato/current-weather-app">
-      <img width="505" height="115" src="https://user-images.githubusercontent.com/111170704/227729078-277ea093-626c-440e-8d10-5e015c3cffa8.png" />
-    </td>
+        <img width="500" alt="Current Weather Forecast" src="https://user-images.githubusercontent.com/111170704/227729028-4c4b6b4f-1f89-40c6-9bf9-08ad8947d96a.png">
+        <img width="505" height="115" src="https://user-images.githubusercontent.com/111170704/227729078-277ea093-626c-440e-8d10-5e015c3cffa8.png" />
+      </a>
+    </td>    
     <td>
-      <img width="500" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227114889-c7e5bfe8-9c9d-4ce6-b0e8-7f740031d6ca.png">
       <a href="https://github.com/weslleypmfortunato/food-recipes">
-      <img width="505" src="https://user-images.githubusercontent.com/111170704/227115454-91d3bc5f-13fb-4403-a5dc-8dcc6b6e3819.png" />
+         <img width="500" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227114889-c7e5bfe8-9c9d-4ce6-b0e8-7f740031d6ca.png">
+        <img width="505" src="https://user-images.githubusercontent.com/111170704/227115454-91d3bc5f-13fb-4403-a5dc-8dcc6b6e3819.png" />
+      </a>
     </td>
   </tr>
 </table>
