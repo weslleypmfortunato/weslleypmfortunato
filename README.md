@@ -74,7 +74,7 @@
     <td>
       <a href="https://github.com/weslleypmfortunato/current-weather-app">
         <img width="500" alt="Current Weather Forecast" src="https://user-images.githubusercontent.com/111170704/227729028-4c4b6b4f-1f89-40c6-9bf9-08ad8947d96a.png">
-        <img width="505" height="115" src="https://user-images.githubusercontent.com/111170704/227729078-277ea093-626c-440e-8d10-5e015c3cffa8.png" />
+        <img width="505" height="110" src="https://user-images.githubusercontent.com/111170704/227729078-277ea093-626c-440e-8d10-5e015c3cffa8.png" />
       </a>
     </td>    
     <td>
