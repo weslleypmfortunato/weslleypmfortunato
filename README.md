@@ -91,6 +91,17 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/weslleypmfortunato/project_my_favorite_repositories">
+         <img width="500" alt="My Favorite Repositories" src="https://user-images.githubusercontent.com/111170704/231328661-24e6af8c-60b4-4d7a-8fc3-d375fe561e4b.png">
+        <img width="505" src="https://user-images.githubusercontent.com/111170704/231328674-4d4de3a3-1d2d-4473-9330-daddc205b842.png" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br />
 <h2 align="center"> 📡 Statistics</h2>
 <div valign="top" align="center">
