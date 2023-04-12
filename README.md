@@ -71,21 +71,15 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/weslleypmfortunato/finalProject-management-system-frontend">
-        <img width="500" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227114801-7e1c72e2-daeb-4408-b9d3-58684fb97d0c.png">
-        <img width="505" src="https://user-images.githubusercontent.com/111170704/227115370-e36edba4-a21d-4c4c-8081-4966d1760b55.png" />
+      <a href="https://github.com/weslleypmfortunato/todo-plus-project">
+         <img width="500" alt="ToDo+" src="https://user-images.githubusercontent.com/111170704/231329634-7f242f91-5063-490c-915f-bc8a2c54e88d.png">
+        <img width="505" src="https://user-images.githubusercontent.com/111170704/231329937-d457ecc1-a50a-466d-8d80-7f7ce2659378.png" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/weslleypmfortunato/current-weather-app-with-tailwindcss">
-        <img width="500" alt="Current Weather Forecast Rev.2" src="https://user-images.githubusercontent.com/111170704/227729028-4c4b6b4f-1f89-40c6-9bf9-08ad8947d96a.png">
-        <img width="505" src="https://user-images.githubusercontent.com/111170704/229664011-2f3a71e8-56c7-4006-85ff-33348ffac7a0.png" />
-      </a>
-    </td>    
-    <td>
-      <a href="https://github.com/weslleypmfortunato/food-recipes">
-         <img width="500" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227114889-c7e5bfe8-9c9d-4ce6-b0e8-7f740031d6ca.png">
-        <img width="505" src="https://user-images.githubusercontent.com/111170704/227115454-91d3bc5f-13fb-4403-a5dc-8dcc6b6e3819.png" />
+      <a href="https://github.com/weslleypmfortunato/project_my_favorite_repositories">
+         <img width="500" alt="My Favorite Repositories" src="https://user-images.githubusercontent.com/111170704/231328661-24e6af8c-60b4-4d7a-8fc3-d375fe561e4b.png">
+        <img width="505" src="https://user-images.githubusercontent.com/111170704/231328674-4d4de3a3-1d2d-4473-9330-daddc205b842.png" />
       </a>
     </td>
   </tr>
@@ -94,9 +88,21 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/weslleypmfortunato/project_my_favorite_repositories">
-         <img width="500" alt="My Favorite Repositories" src="https://user-images.githubusercontent.com/111170704/231328661-24e6af8c-60b4-4d7a-8fc3-d375fe561e4b.png">
-        <img width="505" src="https://user-images.githubusercontent.com/111170704/231328674-4d4de3a3-1d2d-4473-9330-daddc205b842.png" />
+      <a href="https://github.com/weslleypmfortunato/current-weather-app-with-tailwindcss">
+        <img width="500" alt="Current Weather Forecast Rev.2" src="https://user-images.githubusercontent.com/111170704/227729028-4c4b6b4f-1f89-40c6-9bf9-08ad8947d96a.png">
+        <img width="505" src="https://user-images.githubusercontent.com/111170704/229664011-2f3a71e8-56c7-4006-85ff-33348ffac7a0.png" />
+      </a>
+    </td> 
+    <td>
+      <a href="https://github.com/weslleypmfortunato/finalProject-management-system-frontend">
+        <img width="500" alt="Rogers" src="https://user-images.githubusercontent.com/111170704/227114801-7e1c72e2-daeb-4408-b9d3-58684fb97d0c.png">
+        <img width="505" src="https://user-images.githubusercontent.com/111170704/227115370-e36edba4-a21d-4c4c-8081-4966d1760b55.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/weslleypmfortunato/food-recipes">
+         <img width="500" alt="Flavours of the World" src="https://user-images.githubusercontent.com/111170704/227114889-c7e5bfe8-9c9d-4ce6-b0e8-7f740031d6ca.png">
+        <img width="505" src="https://user-images.githubusercontent.com/111170704/227115454-91d3bc5f-13fb-4403-a5dc-8dcc6b6e3819.png" />
       </a>
     </td>
   </tr>
